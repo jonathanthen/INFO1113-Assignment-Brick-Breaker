@@ -1,0 +1,20 @@
+{
+    "name" : "Level1",
+    "bricks" : [
+        {
+            "x" : 0,
+            "y" : 0,
+            "id" : "brick_red"
+        },
+        {
+            "x" : 20,
+            "y" : 0,
+            "id" : "brick_blue"
+        },
+        {
+            "x" : 40,
+            "y" : 40,
+            "id" : "brick_pink"
+        }
+    ]
+}
