@@ -1,7 +1,4 @@
-Name: Jonathan Then Tian Meng
-SID: 490605077
-
-My breaker app consists of the main App, Game class, Brick class and Objs superclass.
+My breaker app consists of the main App, Game class, Brick class, Powerup class and Objs superclass.
 The Paddle and Ball classes are inherited from the Objs superclass.
 
 Reading in Levels:
